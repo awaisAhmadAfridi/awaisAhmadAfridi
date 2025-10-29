@@ -49,18 +49,18 @@
 
 #### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,php,nodejs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp" />
 </p>
 
 #### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
 #### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
 </p>
 
 ---
