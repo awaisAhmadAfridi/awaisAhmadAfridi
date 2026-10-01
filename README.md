@@ -27,7 +27,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/awais-afridi-39a792345" target="_blank">
+  <a href="https://www.linkedin.com/in/awais-ahmad-afridi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/awaisAhmadAfridi" target="_blank">
